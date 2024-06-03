@@ -6,13 +6,13 @@ I cloned a QR Code design using HTML and CSS.
 
 ### Screenshot
 
-![](./deskto.jpg)
-![](./mobile.jpg)
+![desktop](./deskto.jpg)
+![mobile](./mobile.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://rachelabit.github.io/QR-Code/)
-- Solution URL: [Add solution URL here](https://github.com/RachelAbit/QR-Code)
+- Live Site URL: [rachelabit.github.io/QR-Code/](https://rachelabit.github.io/QR-Code/)
+- Solution URL: [github.com/RachelAbit/QR-Code](https://github.com/RachelAbit/QR-Code)
 
 ### My Process
 
@@ -36,4 +36,4 @@ As I continue learning with HTML and CSS, I want to learn more about CSS framewo
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RachelAbit)
+- Frontend Mentor - [@RachelAbit](https://www.frontendmentor.io/profile/RachelAbit)
