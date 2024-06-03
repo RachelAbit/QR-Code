@@ -6,8 +6,8 @@ I cloned a QR Code design using HTML and CSS.
 
 ### Screenshot
 
-![desktop](./deskto.jpg)
-![mobile](./mobile.jpg)
+![deskto.jpg](./deskto.jpg)
+![mobile.jpg](./mobile.jpg)
 
 ### Links
 
