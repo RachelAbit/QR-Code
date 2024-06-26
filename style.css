@@ -28,7 +28,7 @@ img{
     border-radius: 10px;
 }
 
-h2 {
+h1 {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
@@ -40,7 +40,7 @@ h2 {
 p {
     font-weight: 400;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 13px;
     text-align: center;
     padding-top: 10px;
     color: gray;
